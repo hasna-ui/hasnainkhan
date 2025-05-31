@@ -35,6 +35,6 @@ A custom game engine to power casino-style betting apps, built for speed and tra
 
 ## 📫 Contact
 
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [hk1384795@gmail.com.]
 - 🧠 LinkedIn / Portfolio: _Coming soon!_
 
