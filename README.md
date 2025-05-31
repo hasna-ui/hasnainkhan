@@ -1,4 +1,8 @@
-# 👋 Hey, I'm Hasnain Khan
+![Profile Views](https://komarev.com/ghpvc/?username=hasna-ui&color=blue)
+![Top Language](https://img.shields.io/github/languages/top/hasna-ui/stake-engine)
+![Repo Size](https://img.shields.io/github/repo-size/hasna-ui/stake-engine)
+![Last Commit](https://img.shields.io/github/last-commit/hasna-ui/stake-engine)
+ 👋 Hey, I'm Hasnain Khan
 
 🎰 Casino Game Developer | 🎯 Focused on Building the Next-Gen **Stake Engine**
 
