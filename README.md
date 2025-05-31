@@ -1,4 +1,8 @@
-![Profile Views](https://komarev.com/ghpvc/?username=hasna-ui&color=blue)
+MIT License
+
+Copyright (c) 2025 Hasnain Khan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...![Profile Views](https://komarev.com/ghpvc/?username=hasna-ui&color=blue)
 ![Top Language](https://img.shields.io/github/languages/top/hasna-ui/stake-engine)
 ![Repo Size](https://img.shields.io/github/repo-size/hasna-ui/stake-engine)
 ![Last Commit](https://img.shields.io/github/last-commit/hasna-ui/stake-engine)
